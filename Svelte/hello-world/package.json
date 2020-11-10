@@ -20,6 +20,9 @@
     "start": "sirv public",
     "start:dev": "sirv public --dev"
   },
-  "keywords": ["svelte", "starter"],
+  "keywords": [
+    "svelte",
+    "starter"
+  ],
   "description": "Svelte example starter project"
 }
